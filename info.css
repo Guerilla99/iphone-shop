@@ -1,0 +1,26 @@
+.blocks_header {
+    display: flex;
+    flex-direction: row;
+}
+.points{
+    display:flex;
+    flex-direction:row;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: right;
+    justify-content: space-between;
+    width:100%;
+    
+}
+.nav{
+    display:flex;
+    flex-direction: row;
+
+}
+.call_point{
+    border-radius: 20px;
+    color:orange;
+
+
+}
